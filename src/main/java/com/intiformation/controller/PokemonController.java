@@ -23,6 +23,7 @@ public class PokemonController {
 	
 	//test git 
 	//2ème test depuis le repo distant
+	//3ème test branche secondaire
 	
 	@Autowired
 	PokemonService pokemonService;
