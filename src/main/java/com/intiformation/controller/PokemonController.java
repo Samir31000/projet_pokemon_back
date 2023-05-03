@@ -22,6 +22,7 @@ import com.intiformation.service.PokemonService;
 public class PokemonController {
 	
 	//test git 
+	//2ème test depuis le repo distant
 	
 	@Autowired
 	PokemonService pokemonService;
