@@ -20,7 +20,9 @@ import com.intiformation.service.PokemonService;
 @RequestMapping("pokemonapi")
 @CrossOrigin("http://localhost:4200")
 public class PokemonController {
-
+	
+	//test git 
+	
 	@Autowired
 	PokemonService pokemonService;
 	
